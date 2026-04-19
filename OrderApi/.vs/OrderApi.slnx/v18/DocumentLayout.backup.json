@@ -1,0 +1,201 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\GAMER\\source\\repos\\OrderApi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F2221C57-0D20-6E76-3BAE-B16C2830D6CB}|OrderApi\\OrderApi.csproj|c:\\users\\gamer\\source\\repos\\orderapi\\orderapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2221C57-0D20-6E76-3BAE-B16C2830D6CB}|OrderApi\\OrderApi.csproj|solutionrelative:orderapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2221C57-0D20-6E76-3BAE-B16C2830D6CB}|OrderApi\\OrderApi.csproj|c:\\users\\gamer\\source\\repos\\orderapi\\orderapi\\services\\interfaces\\iorderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2221C57-0D20-6E76-3BAE-B16C2830D6CB}|OrderApi\\OrderApi.csproj|solutionrelative:orderapi\\services\\interfaces\\iorderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2221C57-0D20-6E76-3BAE-B16C2830D6CB}|OrderApi\\OrderApi.csproj|c:\\users\\gamer\\source\\repos\\orderapi\\orderapi\\services\\orderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2221C57-0D20-6E76-3BAE-B16C2830D6CB}|OrderApi\\OrderApi.csproj|solutionrelative:orderapi\\services\\orderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2221C57-0D20-6E76-3BAE-B16C2830D6CB}|OrderApi\\OrderApi.csproj|c:\\users\\gamer\\source\\repos\\orderapi\\orderapi\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2221C57-0D20-6E76-3BAE-B16C2830D6CB}|OrderApi\\OrderApi.csproj|solutionrelative:orderapi\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2221C57-0D20-6E76-3BAE-B16C2830D6CB}|OrderApi\\OrderApi.csproj|c:\\users\\gamer\\source\\repos\\orderapi\\orderapi\\repositories\\interfaces\\iorderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2221C57-0D20-6E76-3BAE-B16C2830D6CB}|OrderApi\\OrderApi.csproj|solutionrelative:orderapi\\repositories\\interfaces\\iorderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2221C57-0D20-6E76-3BAE-B16C2830D6CB}|OrderApi\\OrderApi.csproj|c:\\users\\gamer\\source\\repos\\orderapi\\orderapi\\repositories\\implementation\\orderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2221C57-0D20-6E76-3BAE-B16C2830D6CB}|OrderApi\\OrderApi.csproj|solutionrelative:orderapi\\repositories\\implementation\\orderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2221C57-0D20-6E76-3BAE-B16C2830D6CB}|OrderApi\\OrderApi.csproj|c:\\users\\gamer\\source\\repos\\orderapi\\orderapi\\repositories\\implementation\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2221C57-0D20-6E76-3BAE-B16C2830D6CB}|OrderApi\\OrderApi.csproj|solutionrelative:orderapi\\repositories\\implementation\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2221C57-0D20-6E76-3BAE-B16C2830D6CB}|OrderApi\\OrderApi.csproj|c:\\users\\gamer\\source\\repos\\orderapi\\orderapi\\repositories\\interfaces\\igenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2221C57-0D20-6E76-3BAE-B16C2830D6CB}|OrderApi\\OrderApi.csproj|solutionrelative:orderapi\\repositories\\interfaces\\igenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2221C57-0D20-6E76-3BAE-B16C2830D6CB}|OrderApi\\OrderApi.csproj|c:\\users\\gamer\\source\\repos\\orderapi\\orderapi\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2221C57-0D20-6E76-3BAE-B16C2830D6CB}|OrderApi\\OrderApi.csproj|solutionrelative:orderapi\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2221C57-0D20-6E76-3BAE-B16C2830D6CB}|OrderApi\\OrderApi.csproj|c:\\users\\gamer\\source\\repos\\orderapi\\orderapi\\dtos\\responsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2221C57-0D20-6E76-3BAE-B16C2830D6CB}|OrderApi\\OrderApi.csproj|solutionrelative:orderapi\\dtos\\responsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2221C57-0D20-6E76-3BAE-B16C2830D6CB}|OrderApi\\OrderApi.csproj|c:\\users\\gamer\\source\\repos\\orderapi\\orderapi\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2221C57-0D20-6E76-3BAE-B16C2830D6CB}|OrderApi\\OrderApi.csproj|solutionrelative:orderapi\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\GAMER\\source\\repos\\OrderApi\\OrderApi\\Program.cs",
+              "RelativeDocumentMoniker": "OrderApi\\Program.cs",
+              "ToolTip": "C:\\Users\\GAMER\\source\\repos\\OrderApi\\OrderApi\\Program.cs",
+              "RelativeToolTip": "OrderApi\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-17T18:11:31.585Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IOrderService.cs",
+              "DocumentMoniker": "C:\\Users\\GAMER\\source\\repos\\OrderApi\\OrderApi\\Services\\Interfaces\\IOrderService.cs",
+              "RelativeDocumentMoniker": "OrderApi\\Services\\Interfaces\\IOrderService.cs",
+              "ToolTip": "C:\\Users\\GAMER\\source\\repos\\OrderApi\\OrderApi\\Services\\Interfaces\\IOrderService.cs",
+              "RelativeToolTip": "OrderApi\\Services\\Interfaces\\IOrderService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-17T17:55:48.322Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "OrderService.cs",
+              "DocumentMoniker": "C:\\Users\\GAMER\\source\\repos\\OrderApi\\OrderApi\\Services\\OrderService.cs",
+              "RelativeDocumentMoniker": "OrderApi\\Services\\OrderService.cs",
+              "ToolTip": "C:\\Users\\GAMER\\source\\repos\\OrderApi\\OrderApi\\Services\\OrderService.cs",
+              "RelativeToolTip": "OrderApi\\Services\\OrderService.cs",
+              "ViewState": "AgIAADEAAAAAAAAAAAAUwFAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-17T17:56:02.346Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "OrderController.cs",
+              "DocumentMoniker": "C:\\Users\\GAMER\\source\\repos\\OrderApi\\OrderApi\\Controllers\\OrderController.cs",
+              "RelativeDocumentMoniker": "OrderApi\\Controllers\\OrderController.cs",
+              "ToolTip": "C:\\Users\\GAMER\\source\\repos\\OrderApi\\OrderApi\\Controllers\\OrderController.cs",
+              "RelativeToolTip": "OrderApi\\Controllers\\OrderController.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAUwDUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-17T17:55:03.188Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IOrderRepository.cs",
+              "DocumentMoniker": "C:\\Users\\GAMER\\source\\repos\\OrderApi\\OrderApi\\Repositories\\Interfaces\\IOrderRepository.cs",
+              "RelativeDocumentMoniker": "OrderApi\\Repositories\\Interfaces\\IOrderRepository.cs",
+              "ToolTip": "C:\\Users\\GAMER\\source\\repos\\OrderApi\\OrderApi\\Repositories\\Interfaces\\IOrderRepository.cs",
+              "RelativeToolTip": "OrderApi\\Repositories\\Interfaces\\IOrderRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-17T17:56:44.396Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "OrderRepository.cs",
+              "DocumentMoniker": "C:\\Users\\GAMER\\source\\repos\\OrderApi\\OrderApi\\Repositories\\Implementation\\OrderRepository.cs",
+              "RelativeDocumentMoniker": "OrderApi\\Repositories\\Implementation\\OrderRepository.cs",
+              "ToolTip": "C:\\Users\\GAMER\\source\\repos\\OrderApi\\OrderApi\\Repositories\\Implementation\\OrderRepository.cs",
+              "RelativeToolTip": "OrderApi\\Repositories\\Implementation\\OrderRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-17T18:00:50.219Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "GenericRepository.cs",
+              "DocumentMoniker": "C:\\Users\\GAMER\\source\\repos\\OrderApi\\OrderApi\\Repositories\\Implementation\\GenericRepository.cs",
+              "RelativeDocumentMoniker": "OrderApi\\Repositories\\Implementation\\GenericRepository.cs",
+              "ToolTip": "C:\\Users\\GAMER\\source\\repos\\OrderApi\\OrderApi\\Repositories\\Implementation\\GenericRepository.cs",
+              "RelativeToolTip": "OrderApi\\Repositories\\Implementation\\GenericRepository.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAUwDEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-17T18:00:22.282Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IGenericRepository.cs",
+              "DocumentMoniker": "C:\\Users\\GAMER\\source\\repos\\OrderApi\\OrderApi\\Repositories\\Interfaces\\IGenericRepository.cs",
+              "RelativeDocumentMoniker": "OrderApi\\Repositories\\Interfaces\\IGenericRepository.cs",
+              "ToolTip": "C:\\Users\\GAMER\\source\\repos\\OrderApi\\OrderApi\\Repositories\\Interfaces\\IGenericRepository.cs",
+              "RelativeToolTip": "OrderApi\\Repositories\\Interfaces\\IGenericRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-17T17:56:29.834Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\Users\\GAMER\\source\\repos\\OrderApi\\OrderApi\\Models\\Order.cs",
+              "RelativeDocumentMoniker": "OrderApi\\Models\\Order.cs",
+              "ToolTip": "C:\\Users\\GAMER\\source\\repos\\OrderApi\\OrderApi\\Models\\Order.cs",
+              "RelativeToolTip": "OrderApi\\Models\\Order.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-17T18:01:14.606Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ResponseDto.cs",
+              "DocumentMoniker": "C:\\Users\\GAMER\\source\\repos\\OrderApi\\OrderApi\\DTOs\\ResponseDto.cs",
+              "RelativeDocumentMoniker": "OrderApi\\DTOs\\ResponseDto.cs",
+              "ToolTip": "C:\\Users\\GAMER\\source\\repos\\OrderApi\\OrderApi\\DTOs\\ResponseDto.cs",
+              "RelativeToolTip": "OrderApi\\DTOs\\ResponseDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-17T18:01:44.731Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\GAMER\\source\\repos\\OrderApi\\OrderApi\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "OrderApi\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\GAMER\\source\\repos\\OrderApi\\OrderApi\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "OrderApi\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-17T18:01:27.436Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
