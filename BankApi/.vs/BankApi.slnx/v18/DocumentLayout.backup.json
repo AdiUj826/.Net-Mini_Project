@@ -1,0 +1,251 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\GAMER\\source\\repos\\BankApi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{51430384-0704-28C7-9E09-A76C84059E39}|BankApi\\BankApi.csproj|c:\\users\\gamer\\source\\repos\\bankapi\\bankapi\\services\\interfaces\\accountservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51430384-0704-28C7-9E09-A76C84059E39}|BankApi\\BankApi.csproj|solutionrelative:bankapi\\services\\interfaces\\accountservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51430384-0704-28C7-9E09-A76C84059E39}|BankApi\\BankApi.csproj|c:\\users\\gamer\\source\\repos\\bankapi\\bankapi\\models\\bankaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51430384-0704-28C7-9E09-A76C84059E39}|BankApi\\BankApi.csproj|solutionrelative:bankapi\\models\\bankaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51430384-0704-28C7-9E09-A76C84059E39}|BankApi\\BankApi.csproj|c:\\users\\gamer\\source\\repos\\bankapi\\bankapi\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51430384-0704-28C7-9E09-A76C84059E39}|BankApi\\BankApi.csproj|solutionrelative:bankapi\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51430384-0704-28C7-9E09-A76C84059E39}|BankApi\\BankApi.csproj|c:\\users\\gamer\\source\\repos\\bankapi\\bankapi\\repositories\\interfaces\\igenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51430384-0704-28C7-9E09-A76C84059E39}|BankApi\\BankApi.csproj|solutionrelative:bankapi\\repositories\\interfaces\\igenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51430384-0704-28C7-9E09-A76C84059E39}|BankApi\\BankApi.csproj|c:\\users\\gamer\\source\\repos\\bankapi\\bankapi\\repositories\\interfaces\\iaccountrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51430384-0704-28C7-9E09-A76C84059E39}|BankApi\\BankApi.csproj|solutionrelative:bankapi\\repositories\\interfaces\\iaccountrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51430384-0704-28C7-9E09-A76C84059E39}|BankApi\\BankApi.csproj|c:\\users\\gamer\\source\\repos\\bankapi\\bankapi\\repositories\\implementations\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51430384-0704-28C7-9E09-A76C84059E39}|BankApi\\BankApi.csproj|solutionrelative:bankapi\\repositories\\implementations\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51430384-0704-28C7-9E09-A76C84059E39}|BankApi\\BankApi.csproj|c:\\users\\gamer\\source\\repos\\bankapi\\bankapi\\models\\savingsaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51430384-0704-28C7-9E09-A76C84059E39}|BankApi\\BankApi.csproj|solutionrelative:bankapi\\models\\savingsaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51430384-0704-28C7-9E09-A76C84059E39}|BankApi\\BankApi.csproj|c:\\users\\gamer\\source\\repos\\bankapi\\bankapi\\models\\currentaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51430384-0704-28C7-9E09-A76C84059E39}|BankApi\\BankApi.csproj|solutionrelative:bankapi\\models\\currentaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51430384-0704-28C7-9E09-A76C84059E39}|BankApi\\BankApi.csproj|c:\\users\\gamer\\source\\repos\\bankapi\\bankapi\\repositories\\implementations\\accountrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51430384-0704-28C7-9E09-A76C84059E39}|BankApi\\BankApi.csproj|solutionrelative:bankapi\\repositories\\implementations\\accountrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51430384-0704-28C7-9E09-A76C84059E39}|BankApi\\BankApi.csproj|c:\\users\\gamer\\source\\repos\\bankapi\\bankapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51430384-0704-28C7-9E09-A76C84059E39}|BankApi\\BankApi.csproj|solutionrelative:bankapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51430384-0704-28C7-9E09-A76C84059E39}|BankApi\\BankApi.csproj|c:\\users\\gamer\\source\\repos\\bankapi\\bankapi\\services\\interfaces\\iaccountservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51430384-0704-28C7-9E09-A76C84059E39}|BankApi\\BankApi.csproj|solutionrelative:bankapi\\services\\interfaces\\iaccountservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51430384-0704-28C7-9E09-A76C84059E39}|BankApi\\BankApi.csproj|c:\\users\\gamer\\source\\repos\\bankapi\\bankapi\\dtos\\responsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51430384-0704-28C7-9E09-A76C84059E39}|BankApi\\BankApi.csproj|solutionrelative:bankapi\\dtos\\responsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51430384-0704-28C7-9E09-A76C84059E39}|BankApi\\BankApi.csproj|c:\\users\\gamer\\source\\repos\\bankapi\\bankapi\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51430384-0704-28C7-9E09-A76C84059E39}|BankApi\\BankApi.csproj|solutionrelative:bankapi\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51430384-0704-28C7-9E09-A76C84059E39}|BankApi\\BankApi.csproj|c:\\users\\gamer\\source\\repos\\bankapi\\bankapi\\bankapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{51430384-0704-28C7-9E09-A76C84059E39}|BankApi\\BankApi.csproj|solutionrelative:bankapi\\bankapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "GenericRepository.cs",
+              "DocumentMoniker": "C:\\Users\\GAMER\\source\\repos\\BankApi\\BankApi\\Repositories\\Implementations\\GenericRepository.cs",
+              "RelativeDocumentMoniker": "BankApi\\Repositories\\Implementations\\GenericRepository.cs",
+              "ToolTip": "C:\\Users\\GAMER\\source\\repos\\BankApi\\BankApi\\Repositories\\Implementations\\GenericRepository.cs",
+              "RelativeToolTip": "BankApi\\Repositories\\Implementations\\GenericRepository.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAcwCsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-17T18:31:23.335Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BankAccount.cs",
+              "DocumentMoniker": "C:\\Users\\GAMER\\source\\repos\\BankApi\\BankApi\\Models\\BankAccount.cs",
+              "RelativeDocumentMoniker": "BankApi\\Models\\BankAccount.cs",
+              "ToolTip": "C:\\Users\\GAMER\\source\\repos\\BankApi\\BankApi\\Models\\BankAccount.cs",
+              "RelativeToolTip": "BankApi\\Models\\BankAccount.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-17T18:33:02.055Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CurrentAccount.cs",
+              "DocumentMoniker": "C:\\Users\\GAMER\\source\\repos\\BankApi\\BankApi\\Models\\CurrentAccount.cs",
+              "RelativeDocumentMoniker": "BankApi\\Models\\CurrentAccount.cs",
+              "ToolTip": "C:\\Users\\GAMER\\source\\repos\\BankApi\\BankApi\\Models\\CurrentAccount.cs",
+              "RelativeToolTip": "BankApi\\Models\\CurrentAccount.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-17T18:33:29.297Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "SavingsAccount.cs",
+              "DocumentMoniker": "C:\\Users\\GAMER\\source\\repos\\BankApi\\BankApi\\Models\\SavingsAccount.cs",
+              "RelativeDocumentMoniker": "BankApi\\Models\\SavingsAccount.cs",
+              "ToolTip": "C:\\Users\\GAMER\\source\\repos\\BankApi\\BankApi\\Models\\SavingsAccount.cs",
+              "RelativeToolTip": "BankApi\\Models\\SavingsAccount.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-17T18:33:12.896Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IGenericRepository.cs",
+              "DocumentMoniker": "C:\\Users\\GAMER\\source\\repos\\BankApi\\BankApi\\Repositories\\Interfaces\\IGenericRepository.cs",
+              "RelativeDocumentMoniker": "BankApi\\Repositories\\Interfaces\\IGenericRepository.cs",
+              "ToolTip": "C:\\Users\\GAMER\\source\\repos\\BankApi\\BankApi\\Repositories\\Interfaces\\IGenericRepository.cs",
+              "RelativeToolTip": "BankApi\\Repositories\\Interfaces\\IGenericRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-17T18:29:41.745Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AccountService.cs",
+              "DocumentMoniker": "C:\\Users\\GAMER\\source\\repos\\BankApi\\BankApi\\Services\\Interfaces\\AccountService.cs",
+              "RelativeDocumentMoniker": "BankApi\\Services\\Interfaces\\AccountService.cs",
+              "ToolTip": "C:\\Users\\GAMER\\source\\repos\\BankApi\\BankApi\\Services\\Interfaces\\AccountService.cs",
+              "RelativeToolTip": "BankApi\\Services\\Interfaces\\AccountService.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAAAAoAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-17T18:35:56.577Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\GAMER\\source\\repos\\BankApi\\BankApi\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "BankApi\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\GAMER\\source\\repos\\BankApi\\BankApi\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "BankApi\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-17T18:33:44.292Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IAccountRepository.cs",
+              "DocumentMoniker": "C:\\Users\\GAMER\\source\\repos\\BankApi\\BankApi\\Repositories\\Interfaces\\IAccountRepository.cs",
+              "RelativeDocumentMoniker": "BankApi\\Repositories\\Interfaces\\IAccountRepository.cs",
+              "ToolTip": "C:\\Users\\GAMER\\source\\repos\\BankApi\\BankApi\\Repositories\\Interfaces\\IAccountRepository.cs",
+              "RelativeToolTip": "BankApi\\Repositories\\Interfaces\\IAccountRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-17T18:30:17.78Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AccountRepository.cs",
+              "DocumentMoniker": "C:\\Users\\GAMER\\source\\repos\\BankApi\\BankApi\\Repositories\\Implementations\\AccountRepository.cs",
+              "RelativeDocumentMoniker": "BankApi\\Repositories\\Implementations\\AccountRepository.cs",
+              "ToolTip": "C:\\Users\\GAMER\\source\\repos\\BankApi\\BankApi\\Repositories\\Implementations\\AccountRepository.cs",
+              "RelativeToolTip": "BankApi\\Repositories\\Implementations\\AccountRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-17T18:31:33.35Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\GAMER\\source\\repos\\BankApi\\BankApi\\Program.cs",
+              "RelativeDocumentMoniker": "BankApi\\Program.cs",
+              "ToolTip": "C:\\Users\\GAMER\\source\\repos\\BankApi\\BankApi\\Program.cs",
+              "RelativeToolTip": "BankApi\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-17T18:46:10.887Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IAccountService.cs",
+              "DocumentMoniker": "C:\\Users\\GAMER\\source\\repos\\BankApi\\BankApi\\Services\\Interfaces\\IAccountService.cs",
+              "RelativeDocumentMoniker": "BankApi\\Services\\Interfaces\\IAccountService.cs",
+              "ToolTip": "C:\\Users\\GAMER\\source\\repos\\BankApi\\BankApi\\Services\\Interfaces\\IAccountService.cs",
+              "RelativeToolTip": "BankApi\\Services\\Interfaces\\IAccountService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-17T18:35:18.794Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ResponseDto.cs",
+              "DocumentMoniker": "C:\\Users\\GAMER\\source\\repos\\BankApi\\BankApi\\DTOs\\ResponseDto.cs",
+              "RelativeDocumentMoniker": "BankApi\\DTOs\\ResponseDto.cs",
+              "ToolTip": "C:\\Users\\GAMER\\source\\repos\\BankApi\\BankApi\\DTOs\\ResponseDto.cs",
+              "RelativeToolTip": "BankApi\\DTOs\\ResponseDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-17T18:33:58.329Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\Users\\GAMER\\source\\repos\\BankApi\\BankApi\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "BankApi\\Controllers\\AccountController.cs",
+              "ToolTip": "C:\\Users\\GAMER\\source\\repos\\BankApi\\BankApi\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "BankApi\\Controllers\\AccountController.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAxwA0AAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-17T18:25:10.332Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "BankApi.csproj",
+              "DocumentMoniker": "C:\\Users\\GAMER\\source\\repos\\BankApi\\BankApi\\BankApi.csproj",
+              "RelativeDocumentMoniker": "BankApi\\BankApi.csproj",
+              "ToolTip": "C:\\Users\\GAMER\\source\\repos\\BankApi\\BankApi\\BankApi.csproj",
+              "RelativeToolTip": "BankApi\\BankApi.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-04-17T18:31:50.965Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
